@@ -36,3 +36,16 @@ To run these notebooks locally on your machine, follow these simple steps:
    ```bash
    git clone [https://github.com/the-swanky-shinigami/Bioinformatics_with_Python.git](https://github.com/the-swanky-shinigami/Bioinformatics_with_Python.git)
    cd Bioinformatics_with_Python
+
+2. Open Jupyer Notebook or any IDE that has support for Jupyter Notebooks (like VS Code) and run your notebooks there
+
+3. Set up a virtual environment to avoid dependency issues or library conflicts
+
+## 🤝 Connect & Support
+* Subscribe to the Channel: Don't miss any upcoming episodes!
+
+* Star this Repo: If you find these notebooks helpful, drop a ⭐ to show your support!
+
+* Questions? Leave a comment on the respective YouTube video, or open an Issue here if you spot a bug in the code.
+
+* Connect: Send queries via email to theswankylabs@gmail.com
