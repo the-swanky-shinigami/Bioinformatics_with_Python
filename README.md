@@ -41,6 +41,8 @@ To run these notebooks locally on your machine, follow these simple steps:
 
 3. Set up a virtual environment to avoid dependency issues or library conflicts
 
+---
+
 ## 🤝 Connect & Support
 * Subscribe to the Channel: Don't miss any upcoming episodes!
 
